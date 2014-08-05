@@ -12,10 +12,7 @@
 		</script>
 	</head>
 <?php include ("Header/header.php"); ?>
-<audio loop autoplay>
-  <source src="Oooh.mp3" type="audio/mpeg">
-</audio>
-<script>
+  <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
 				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");

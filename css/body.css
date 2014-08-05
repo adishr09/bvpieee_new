@@ -6,21 +6,44 @@ position:relative;
 
 #left{
 float:left;
-height:120%;
+height:137%;
 width:69%;
-margin:0 0 0 5%;
+border-radius:15px;
+padding:25px;
+background-color:#0e0e0e;
+margin:2% 1% 2% 2%;
+}
+
+#left p{
+margin:40px;
+text-align:justify;
+}
+
+#left h1{
+margin:40px;
+text-align:center;
+color:rgba(153,204,51,1);
 }
 
 #right{
 float:left;
 height:40%;
 width:19%;
+border-radius:15px;
+padding:25px;
+background-color:#0e0e0e;
 border-left:thin solid #000000;
-margin:0 5% 0 0%;
+margin:2% 2% 2% 1%;
 }
+
+#right p{
+margin:40px;
+text-align:justify;
+}
+
+
 #right > p {
 float:left;
-
 margin: 2%;
 }
 
