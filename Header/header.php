@@ -11,9 +11,9 @@
 					<p><button id="trigger-overlay" type="button">Note from the Chairperson</button></p>
 				</section>
 				<span class="right">
-					<a class="codrops-icon codrops-icon-drop" href=""><span>Xplore Digital Library</span></a>
-					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Standards</span></a>
-					<a class="codrops-icon codrops-icon-drop" href=""><span>IEEE Spectrum</span></a>
+					<a class="codrops-icon codrops-icon-drop" href="http://ieeexplore.ieee.org/"><span>Xplore Digital Library</span></a>
+					<a class="codrops-icon codrops-icon-drop" href="http://standards.ieee.org/"><span>IEEE Standards</span></a>
+					<a class="codrops-icon codrops-icon-drop" href="http://spectrum.ieee.org/"><span>IEEE Spectrum</span></a>
 				</span>
 			</div>
 			<br>
@@ -31,8 +31,8 @@
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="calibri" size="5.5"><b>Note from the Chairperson</b></font></p>
 			    <br>
-			    <img alt="" src="header/img/haresh.png" border="50" height="150" width="150"><br><br>
-			    <p><font color="black" face="calibri" size="4"><b>Haresh Singh</b></font></p>
+			    <img alt="" src="header/img/" border="50" height="150" width="150"><br><br>
+			    <p><font color="black" face="calibri" size="4"><b>Yamini Jain</b></font></p>
 			</aside>
 			<nav style="margin-top:-9%;">
 				<ul>

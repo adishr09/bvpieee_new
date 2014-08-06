@@ -29,20 +29,22 @@
 				<li>
 					<a href="#">Publications</a>
 					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Pratibimb</a></li>
+						<li><a href="http://pratibimb.bvpieee.org" class="cbp-tm-icon-archive">Pratibimb</a></li>
 						<li><a href="#" class="cbp-tm-icon-cog">Cognizance</a></li>
 						<li><a href="#" class="cbp-tm-icon-location">Reports</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="#">SIGs</a>
-				</li>
-				<li>
 					<a href="#">Executive Community</a>
+				</li>	
+				<li>
+					<a href="#">SIGs</a>
 					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Item 0</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">Item 1</a></li>
-						<li><a href="#" class="cbp-tm-icon-location">Item 2</a></li>
+						<li><a href="#" class="cbp-tm-icon-archive">Drishti</a></li>
+						<li><a href="#" class="cbp-tm-icon-cog">Code-X</a></li>
+						<li><a href="#" class="cbp-tm-icon-location">Robotix-United</a></li>
+						<li><a href="#" class="cbp-tm-icon-archive">GAMMA</a></li>
+						<li><a href="#" class="cbp-tm-icon-cog">E-Cell</a></li>
 					</ul>
 				</li>
 				<li>
