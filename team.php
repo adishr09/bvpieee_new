@@ -120,6 +120,7 @@
 				<table>
 				<center>EXECUTIVE COMMITTEE(BVPIEEE)</center>
 				<tr><td><img class="team" src=""></td><td>Yamini Jain</td></tr>
+				<tr><td><img class="team" src=""></td><td>Sanchit Guglani</td></tr>
 				</table>
 			</p>
 		</div>

@@ -1,12 +1,21 @@
 <?php echo'
 
     <style>
-        body{margin:0px;padding:0px;}
-        #footer{background-color:rgba(236, 236, 236, 1);height:200px;padding-top:30px;}
-        .col{width:31%;float:left;height:200px;padding:1%;overflow-wrap:break-word}
+        body{
+		margin:0px;
+		padding:0px;
+		}
+        .col{
+		width:31%;
+		float:left;
+		align-content:centre;
+		height:auto;
+		padding:1%;
+		overflow-wrap:break-word;
+		}
     </style>
-   <div id="footer">
-        <div class="col" id="col1">
+	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
+		<div class="col" id="col1">
             <a href="#">Link1</a><br />
             <a href="#">Link1</a><br />
             <a href="#">Link1</a><br />
@@ -24,5 +33,8 @@
             <a href="#">Link1</a><br />
             <a href="#">Link1</a>
         </div>
-    </div>
+		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
+		<p style="float:right; display:inline;">Keep In Touch
+		</p>
+	</div>
 ';?>
