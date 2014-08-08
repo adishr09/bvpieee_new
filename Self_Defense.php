@@ -126,13 +126,7 @@
  </p>
 		</div>
 		<div id="right">
-			<p>Dated: 16 November, 2013
-Venue: ASET, Bijwasan
--By Anshul Sharma and Aman Garg
-A event on Introduction to MTT-S, was organized by joint collaboration of IEEE Societies of ASET(Amity School of Engineering Technology) and MSIT(Maharaja Surajmal Institute of Technology). We (Anshul Sharma and Aman Garg) IEEE student member, represented BVPIEEE at that event. Event started with a session on “Student Section Network and various Opportunities” by Mr. Nivas Ravichandran (SB NETWORKING SECRETARY at IEEE R10 SAC INDIA, Social Media Lead at IEEE R10). Session was interactive and informative .His advise on startups and networking was  helpful. Event was continued by Arjun Narain(MSIT-Representative) .He gave brief introduction on MTT-S and various events and projects on MTT-S organized by MTT-S society of MSIT under flagship of IEEE, out of which some of the major events were, Summer Grant Program(SGP),YAGI antennae design workshops, RF module and NASA Radio jove.
-This was followed by project demonstration on NASA Radio JOVE and YAGI antennae by MTT-S members of IEEE MSIT. Event came to an end by interactive session on HAM Radio by, Mrs. D.Bharathi Prasad “VU2RBI”, Chief coordinator (National Institute of Amateur Radio). She gave a brief description on HAM radio telecommunication , and its prospects as a medium of communication in hazard prone areas . With her long association with HAM Radio communication and 30 years experience of being an amateur HAM Radio operator ,it was a privledge for us to talk about various aspects of Ham Radio telecommunication .
-Overall, it was a informative event with ample opportunities of networking, it gave us insights to the world of microwave theory and techniques. 
-</p>
+			
 		</div>
 		<div id="right">
 			<p>This is 2nd right</p>

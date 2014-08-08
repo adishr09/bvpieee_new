@@ -115,12 +115,63 @@
 
 <div id="wrapper" >
 	<div id="container">
-		<div id="left">
+		<div id="left" style="overflow:scroll;">
 			<p>
-				<table>
-				<center>EXECUTIVE COMMITTEE(BVPIEEE)</center>
-				<tr><td><img class="team" src=""></td><td>Yamini Jain</td></tr>
-				<tr><td><img class="team" src=""></td><td>Sanchit Guglani</td></tr>
+				<table class="tab">
+				<center><h1>EXECUTIVE COMMITTEE<h1></center>
+				<tr><td><img class="team" src="img/team/yamini_jain.jpg"></td><td>Yamini Jain<br>Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/sanchit_guglani.jpg"></td><td>Sanchit Guglani<br>Vice-Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/tapan_khattar.jpg"></td><td>Tapan Khattar<br>Vice-Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/niharika_singh.jpg"></td><td>Niharika Singh<br>General Secretary</td></tr>
+				<tr><td><img class="team" src="img/team/aryaman_nath.jpg"></td><td>Aryaman Nath<br>Treasurer</td></tr>
+				<tr><td><img class="team" src="img/team/prerna_soni.jpg"></td><td>Prerna Soni<br>Join Secretary</td></tr>
+				<tr><td><img class="team" src="img/team/prateek_arora.jpg"></td><td>Prateek Arora<br>Join Secretary</td></tr>
+				</table>
+				<table class="tab">
+				<center><h1>AUXILIARY TEAM</h1></center>
+				<tr><td><img class="team" src="img/team/aditya_sharma.jpg"></td><td>Aditya Dev Sharma<br>Web Administrator</td></tr>
+				<tr><td><img class="team" src="img/team/kunal_sachdeva.jpg"></td><td>Kunal Sachdeva<br>Web Administrator</td></tr>
+				<tr><td><img class="team" src="img/team/priyansh_singh.jpg"></td><td>Priyansh Singh<br>Head - Technical Affairs</td></tr>
+				<tr><td><img class="team" src="img/team/shubham_chugh.jpg"></td><td>Shubham Chugh<br>Executive - Technical Affairs</td></tr>
+				<tr><td><img class="team" src="img/team/udit_khanna.jpg"></td><td>Udit Khanna<br>Head - Human Resource</td></tr>
+				<tr><td><img class="team" src="img/team/aishwarya_kaul.jpg"></td><td>Aishwarya Kaul<br>Head - Public Relations</td></tr>
+				<tr><td><img class="team" src="img/team/dharvi_verma.jpg"></td><td>Dharvi Verma<br>Head - Event Management</td></tr>
+				<tr><td><img class="team" src="img/team/shrey_bagga.jpg"></td><td>Shrey Bagga<br>Head - Publicity</td></tr>
+				<tr><td><img class="team" src="img/team/shivam_bhardwaj.jpg"></td><td>Shivam Bhardwaj<br>Head - Infrastructure & Logistics</td></tr>
+				<tr><td><img class="team" src="img/team/sumedha_arya.jpg"></td><td>Sumedha Arya<br>Head - Publications & Documentations</td></tr>
+				<tr><td><img class="team" src="img/team/arjun_kumar.jpg"></td><td>Arjun Kumar<br>Head - Creativity</td></tr>
+				</table>
+				<table class="tab">
+				<center><h1>HEAD SUPERVISORS - SIGs</h1></center>
+				<tr><td><img class="team" src="img/team/aryaman_nath.jpg"></td><td>Aryaman Nath<br>Drishti (Photography, Design and Creativity Group)</td></tr>
+				<tr><td><img class="team" src="img/team/priyansh_singh.jpg"></td><td>Priyansh Singh<br>Code-X (Programming Group)</td></tr>
+				<tr><td><img class="team" src="img/team/tapan_khattar.jpg"></td><td>Tapan Khattar<br>Robotix-United (Robotics Group)</td></tr>
+				<tr><td><img class="team" src="img/team/sanchit_guglani.jpg"></td><td>Sanchit Guglani<br>GAMMA (Gaming, Multimedia and Animation Group)</td></tr>
+				<tr><td><img class="team" src="img/team/rushil_bhutani.jpg"></td><td>Rushil Bhutani<br>E-Cell (Entrepreneurship Development Group)</td></tr>
+				</table>
+				<table class="tab">
+				<center><h1>STUDENT REPRESENTATIVES</h1></center>
+				<tr><td><img class="team" src="img/team/payal_mangla.jpg"></td><td>Payal Mangla</td></tr>
+				<tr><td><img class="team" src="img/team/shreshtha_jain.jpg"></td><td>Shreshtha Jain</td></tr>
+				<tr><td><img class="team" src="img/team/subhav_duggal.jpg"></td><td>Subhav Duggal</td></tr>
+				<tr><td><img class="team" src="img/team/shikhar_mittal.jpg"></td><td>Shikhar Mittal</td></tr>
+				</table>
+				<table class="tab">
+				<center><h1>RAS</h1></center>
+				<tr><td><img class="team" src="img/team/tapan_khattar.jpg"></td><td>Tapan Khattar<br>Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/naman_sharma.jpg"></td><td>Naman Sharma<br>Vice-Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/pranshu_jhamb.jpg"></td><td>Pranshu Jhamb<br>Head - Research & Development</td></tr>
+				<tr><td><img class="team" src="img/team/sidhant_gulhar.jpg"></td><td>Sidhant Gulhar<br>Head - Publication & Documentation</td></tr>
+				<tr><td><img class="team" src="img/team/deepak_verma.jpg"></td><td>Deepak Verma<br>Head - EM</td></tr>
+				<tr><td><img class="team" src="img/team/rishabh_goyal.jpg"></td><td>Rishabh Goyal<br>Chapter Representative</td></tr>
+				</table>
+				<table class="tab">
+				<center><h1>WIE</h1></center>
+				<tr><td><img class="team" src="img/team/akansha_srivastava.jpg"></td><td>Akansha Srivastava<br>Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/prachi_choudhary.jpg"></td><td>Prachi Choudhary<br>Vice-Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/himshika_suhag.jpg"></td><td>Himshika Suhag<br>Vice-Chairperson</td></tr>
+				<tr><td><img class="team" src="img/team/akshita_gupta.jpg"></td><td>Akshita Gupta<br>Secretary</td></tr>
+				<tr><td><img class="team" src="img/team/shefali_garg.jpg"></td><td>Shefali Garg<br>Representative</td></tr>
 				</table>
 			</p>
 		</div>

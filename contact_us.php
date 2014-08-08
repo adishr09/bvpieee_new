@@ -116,15 +116,20 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<img src="img/E-Cell.jpg" class="featureImg" width="30%">
-		<img src="img/E-Cell1.jpg" class="featureImg" width="30%">
-		<img src="img/E-Cell2.jpg" class="featureImg" width="30%">
-		
-		<p>9 October, 2013 </p>
-<p>E-Cell orientation </p>
-
-<p>E-Cell(Entrepreneurship Cell), a BVPIEEE initiative which aims at providing a professional environment to students,  organized its orientation meet on Wednesday, 9th of October. Topics such as "Opportunities for Start-Up" , "Why Entrepreneurship" and many more were discussed with the main focus on "Do it yourself" culture. </p>
-<p>Rajat Kumar Gupta ( Head E-Cell ) who already has 2 Start-ups and many patents  to his name took this session on Entrepreneurship and Start-ups.</p>
+			<center><p><h1>BVPIEEE INDIA</h1><br>
+				<h2>Address: </h2><br>
+				Bharati Vidyapeeth College of Engineering <br>
+				A-4 Paschim Vihar, Rohtak Road <br>
+				New Delhi-110063<br><br>
+				<h2>Contact Us:</h2>
+				<h4>Faculty Advisor:</h4> Rahul Bahl<br>
+				E-Mail:<a>rbahal.ieee@gmail.com </a><br>
+				<h4>Chairperson: </h4>Yamini Jain <br>
+				E-Mail:<a>aurora.yamini@gmail.com</a><br><br>
+				<h2>On The WWW:</h2>
+				Official E-Mail Address: <a>bvpieee@gmail.com</a> <br>
+				Facebook Page: <a href="https://www.facebook.com/bvpieee">https://www.facebook.com/bvpieee</a>
+			</p></center>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

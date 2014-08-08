@@ -116,9 +116,9 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<img src="img/DSC_0036.png" class="featureImg" width="30%">
-		<img src="img/DSC_0037.png" class="featureImg" width="30%">
-		<img src="img/DSC_0081.png" class="featureImg" width="30%">
+		<img src="img/DSC_0036.jpg" class="featureImg" width="30%">
+		<img src="img/DSC_0077.jpg" class="featureImg" width="30%">
+		<img src="img/DSC_0081.jpg" class="featureImg" width="30%">
 		<p>IEEE Day - 1st October, 2013 </p>
 
 <p>StampIT - Make your mark </p>

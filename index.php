@@ -6,10 +6,7 @@
 		<title>BVPIEEE | Passion To Perfection</title>
 		<link rel="stylesheet" href="css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script src="js/jquery.fittext.js"></script>
-		<script>
-			jQuery("#responsive_headline").fitText();
-		</script>
+		
 	</head>
 <?php include ("Header/header.php"); ?>
 <script>
@@ -44,8 +41,11 @@
 				}
 			}
 		</script>
+		
 <?php include ("Nav_Bar/nav_bar.php"); ?>
+
 <?php include ("Slider/index2.php"); ?>
+
 <script type="text/javascript">	
 			$(function() {
 			

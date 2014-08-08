@@ -7,7 +7,7 @@
 		<div class="nav" style="background:rgba(236, 236, 236, 1);">
 			<ul id="cbp-tm-menu" class="cbp-tm-menu">
 				<li>
-					<a href="#">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li>
 					<a href="#">IEEE</a>
@@ -16,7 +16,7 @@
 					<a href="#">IEEE-HKN</a>
 				</li>			
 				<li>
-					<a href="#">WIE</a>
+					<a href="http://ewh.ieee.org/sb/delhi/bvce/www/home/wie/">WIE</a>
 				</li>
 				<li>
 					<a href="#">Events</a>
@@ -35,7 +35,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="#">Executive Community</a>
+					<a href="team.php">Executive Community</a>
 				</li>	
 				<li>
 					<a href="#">SIGs</a>
@@ -51,7 +51,7 @@
 					<a href="#">Gallery</a>
 				</li>
 				<li>
-					<a href="#">Contact Us</a>
+					<a href="contact_us.php">Contact Us</a>
 				</li>
 			</ul>
 		</div>
