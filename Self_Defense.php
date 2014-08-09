@@ -116,10 +116,11 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<p>  The IEEE’s prestigious section “Women in Engineering” better known as BVPIEEE WIE successfully organized a self-defense training workshop in collaboration with Special Police Unit for Women and Children under Delhi Police with an objective of empowering women and providing safe and secure city for all the citizens.</p>
+		<h1>Self Defense Training Workshop</h1>
+		<p>  The IEEE's prestigious section "Women in Engineering" better known as BVPIEEE WIE successfully organized a self-defense training workshop in collaboration with Special Police Unit for Women and Children under Delhi Police with an objective of empowering women and providing safe and secure city for all the citizens.</p>
 <p> 15 days long workshop commenced on 27th August 2013 with an inspiring speech by principal Prof. M.S.Bhattacharya accompanied by vice principal Dr.Anuradha Basu and branch counselor Rahul Bahl and continued till 11th September 2013.Workshop was completely free of cost and was made open for all the girls of college. </p>
 <p>  Self Defence Training Workshop lived upto its expectations and experienced good participation.Two lady constables from Delhi Police fully trained the girls on how to tackle the various situations of eve-teasing and various other such problems. Certificate of Participation was given to all by Delhi Police ,which was inspected by principal Prof. M.S. Bhattacharya , Dr.Anuradha Basu and Dr.Vanita Jain.  </p>                                                                                                          
-<p> The workshop successfully achieved its motive to empower girls and took their confidence to much higher level. This event’s success story added a new feather in the crown of BVPIEEE WIE. </p>
+<p> The workshop successfully achieved its motive to empower girls and took their confidence to much higher level. This event's success story added a new feather in the crown of BVPIEEE WIE. </p>
 
 
 <p>-WIE BVPIEEE

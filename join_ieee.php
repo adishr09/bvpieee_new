@@ -116,12 +116,39 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
-
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+			<p><h1>Why Join IEEE?</h1></p>
+			<p>IEEE is 125 years old the world’s largest technical society and it’s Student Branches contribute a lot in developing an engineering students personality and technical skills. IEEE offers many exclusive benefits to their members. For a nominal annual membership fee, the benefits are many and varied!</p>
+			<ul>
+			<li>Technology updates</li>
+			<li>Many Technical activities</li>
+			<li>Delhi section Quaterly Meets</li>
+			<li>All India congress Meets</li>
+			<li>IEEE Potential Magazine</li>
+			<li>IEEE Spectrum Magazine</li>
+			<li>IEEE Email Alias</li>
+			<li>Career Alert – newsletter</li>
+			</ul>
+			<p>IEEE has:</p>
+			<ul>
+			<li>more than 425,000 members in more than 160 countries, more than 50 percent of whom are from outside the United States</li>
+			<li>more than 116,000 Student members</li>
+			<li>333 Sections in 10 geographic regions worldwide</li>
+			<li>2,195 Chapters that unite local members with similar technical interests</li>
+			<li>2,354 student branches at colleges and universities</li>
+			<li>800 student branch chapters of IEEE technical societies</li>
+			<li>428 affinity groups – IEEE Affinity Groups are non-technical sub-units of one or more Sections or a Council. The Affinity Group patent entities are the IEEE-USA Consultants’ Network, Graduates of the Last Decade (GOLD), Women in Engineering (WIE), and Life Members (LM).</li>
+			</ul>
+			<p>IEEE:</p>
+			<ul>
+			<li>has 38 Societies and 7 technical Councils representing the wide range of IEEE technical interests</li>
+			<li>has more than 3 million documents in the IEEE Xplore Digital Library, with more than 8 million downloads each month</li>
+			<li>has more than 1,400 standards and projects under development</li>
+			<li>publishes more than 148 transactions, journals, and magazines</li>
+			<li>sponsors more than 1,300 conferences in 80 countries while</li>
+			<li>partnering with more than 1,000 non-IEEE entities globally</li>
+			<li>attracting more than 400,000 conference attendees</li>
+			<li>publishing more than 1,200 conference proceedings via IEEE Xplore.</li>
+			</ul>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

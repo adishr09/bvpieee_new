@@ -10,6 +10,7 @@ height:137%;
 width:69%;
 border-radius:15px;
 padding:25px;
+overflow:auto;
 background-color:#0e0e0e;
 margin:2% 1% 2% 2%;
 }
@@ -23,6 +24,12 @@ text-align:justify;
 margin:40px;
 text-align:center;
 color:rgba(153,204,51,1);
+}
+
+#left h2{
+margin:40px;
+text-align:center;
+color:rgba(153,204,51,0.7);
 }
 
 #right{

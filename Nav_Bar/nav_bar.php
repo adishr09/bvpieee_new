@@ -11,9 +11,13 @@
 				</li>
 				<li>
 					<a href="#">IEEE</a>
+					<ul class="cbp-tm-submenu">
+						<li><a href="about_ieee.php" class="cbp-tm-icon-archive">About IEEE</a></li>
+						<li><a href="join_ieee.php" class="cbp-tm-icon-cog">Why Join IEEE</a></li>
+					</ul>
 				</li>
 				<li>
-					<a href="#">IEEE-HKN</a>
+					<a href="hkn.php">IEEE-HKN</a>
 				</li>			
 				<li>
 					<a href="http://ewh.ieee.org/sb/delhi/bvce/www/home/wie/">WIE</a>
@@ -31,11 +35,15 @@
 					<ul class="cbp-tm-submenu">
 						<li><a href="http://pratibimb.bvpieee.org" class="cbp-tm-icon-archive">Pratibimb</a></li>
 						<li><a href="#" class="cbp-tm-icon-cog">Cognizance</a></li>
-						<li><a href="#" class="cbp-tm-icon-location">Reports</a></li>
+						<li><a href="report.php" class="cbp-tm-icon-location">Reports</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="team.php">Executive Community</a>
+					<a href="#">Executive Community</a>
+					<ul class="cbp-tm-submenu">
+						<li><a href="#" class="cbp-tm-icon-archive">Branch Counsellor</a></li>
+						<li><a href="team.php" class="cbp-tm-icon-cog">The BVPIEEE Team</a></li>
+					</ul>
 				</li>	
 				<li>
 					<a href="#">SIGs</a>

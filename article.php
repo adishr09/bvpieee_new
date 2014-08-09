@@ -116,18 +116,9 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-			<p>Lambda Eta Chapter, BVPIEEE INDIA 
-				Address: Bharati Vidyapeethï¿½s College of Engineering 
-				A-4 Paschim Vihar, Rohtak Road 
-				New Delhi-110063
-				Contact Us:
-				Faculty Advisor: Rahul Bahl
-				Mail:rbahal.ieee@gmail.com 
-				President: Sindhu Jayakumar 
-				Mail:sindhujkmr5@gmail.com 
-				Mail Address: hkn.lambdaeta@gmail.com 
-				Facebook Page: https://www.facebook.com/pages/IEEE-HKN-Bvcoe/275757819137835
-			</p>
+			<p><h1>Reports</h1></p>
+			<ol>
+			<li>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

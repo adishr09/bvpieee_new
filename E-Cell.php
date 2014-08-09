@@ -116,14 +116,12 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<img src="img/E-Cell.jpg" class="featureImg" width="30%">
-		<img src="img/E-Cell1.jpg" class="featureImg" width="30%">
-		<img src="img/E-Cell2.jpg" class="featureImg" width="30%">
-		
-		<p>9 October, 2013 </p>
-<p>E-Cell orientation </p>
+		<h1>E-Cell orientation </h1>
 
 <p>E-Cell(Entrepreneurship Cell), a BVPIEEE initiative which aims at providing a professional environment to students,  organized its orientation meet on Wednesday, 9th of October. Topics such as "Opportunities for Start-Up" , "Why Entrepreneurship" and many more were discussed with the main focus on "Do it yourself" culture. </p>
+		<p><center><img src="img/E-Cell.jpg" class="featureImg" width="30%">
+		<img src="img/E-Cell1.jpg" class="featureImg" width="30%"></p></center>
+		
 <p>Rajat Kumar Gupta ( Head E-Cell ) who already has 2 Start-ups and many patents  to his name took this session on Entrepreneurship and Start-ups.</p>
 		</div>
 		<div id="right">

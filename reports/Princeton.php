@@ -116,12 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
-
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+		<p>On the auspicious occasion of “IEEE HKN Founder’s Day”, BVPIEEE organized an educational seminar held by the firm “Princeton Review”. It was an interactive session covering various facets of higher education. The discussion encompassed various exams like GRE, GMAT, TOEFL and IELTS, dealt with their eligibility criterion, emphasized upon which courses to undertake, explained admission procedure, described education loans and gave tips and tricks to ace the tests. The participants got two envelopes. One enclosed the details about Credila, which is an HDFC Company that handles the education loans and the other incorporated the information about admission programs, testimonials and recent admits from Manya Education Pvt. Ltd.  There is incontrovertible evidence that the event brought the house down. It was a huge success with a gathering of hundred people. Thus, the IEEE HKN availed itself to the opportunity and sank its teeth to raise awareness of the value of chapter through this event.</p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

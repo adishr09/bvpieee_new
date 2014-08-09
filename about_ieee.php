@@ -116,12 +116,19 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
-
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+			<p><h1>About IEEE</h1></p>
+			<p>IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through its highly cited publications, conferences, technology standards, and professional and educational activities.</p>
+			<p>IEEE provides a lot of facilities and benefits such as:</p>
+			<ul>
+			<li>Members get access to 41 IEEE technical societies, their publications and services at discounted student member rates.</li>
+			<li>Recognition and cash awards through the IEEE student paper contest.</li>
+			<li>Monthly magazines Spectrum is an award winning magazine for engineers that contains the latest news and information on various subjects covering all areas of technical activities that are of a more general interest. The Institute newsletter and all other societies of IEEE have their own magazines and newsletters that cover more specific issues.</li>
+			<li>IEEE Potentials is the magazine for technology’s rising innovation covers the latest global research as well as business and career issues. This is a bi-monthly magazine.</li>
+			<li>IEEE.tv is an internet television offering exclusive member’s only technical programming.</li>
+			<li>As an IEEE member, one has access to abstracts, indexes from nearly all IEEE publications through IEEE Xplore. IEEE Xplore provides full-text access to IEEE transactions, journals; magazines and conference proceeding published since 1998 plus select content back to 1950 and all current IEEE standards.</li>
+			<li>Students reap the same benefits as professional members such as discount on many technical resources and reduced registration fees for conferences plus student discount on society membership, publication and more.</li>
+			</ul>
+			<p>At the pre-college level, the IEEE works with industry, universities and government to raise students’ literacy in science, math’s, engineering and technology. IEEE journals are consistently among the most highly cited in electrical and electronics engineering, telecommunications and other technical fields. IEEE is a leading developer of international standards that underpin many of today’s telecommunications, information technology and power generation products and services.</p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

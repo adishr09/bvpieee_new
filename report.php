@@ -116,12 +116,20 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
-
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+			<p><h1>Reports</h1></p>
+			<ol>
+				<a href="21stQuarterly.php"><li>21<sup>st</sup> Quarterly Meet</li></a>
+				<a href="AISC_13.php"><li>All India Student Congress - 2013</li></a>
+				<a href="DSC.php"><li>Delhi Student Congress</li></a>
+				<a href="E-Cell.php"><li>Entrepreneurship Cell Orientation</li></a>
+				<a href="Fresh_Campus.php"><li>Fresh On Campus</li></a>
+				<a href="IEEE_Day.php"><li>IEEE Day</li></a>
+				<a href="Intro_Meet.php"><li>Introductory Meet</li></a>
+				<a href="MTTs.php"><li>Introduction to MTT-S</li></a>
+				<a href="Princeton.php"><li>Princeton Review</li></a>
+				<a href="Region10.php"><li>Region 10 Congress</li></a>
+				<a href="Self_Defense.php"><li>Workshop on Self Defense</li></a>
+			</ol>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

@@ -116,7 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h4>IEEE Delhi Student Congress</h4>
+		<h1>IEEE Delhi Student Congress</h1>
 		<p>The second annual IEEE Delhi Student Congress was held in Jamia Millia Islamia, New Delhi on 19th and 20th of October, 2013. Students from various colleges across the Delhi Section had assembled to attend the Congress. The two day event was highly educational for our Student Branch and a learning experience for all the attendees. Eminent personalities from IEEE participated to impart knowledge regarding what the industry needs from employees today, how one can make oneself competent, how to manage a Student Branch effectively, the responsibilities of the various officers in a Student Branch and also what IEEE provides to its Student Members. </p>
 <p>The first day started off with inauguration by Prof. Bhim Singh, Chairperson IEEE Delhi Section and Mr. V.K Aggarwal, Executive Director NLDC.  Mr.Daman Sood talked about industry-institute interaction. Ms. Mini Thomas, IEEEJMI Branch Counselor addressed students on MGA(Member and Geographic Activities) , SAC(Student Activities Committee) and PES(Power and Energy Society).
 The following day, Mr. Barbanas Muthu talked about what we as engineers can really do and how IEEE can help us achieve perfection. Mr. Imran Ali elucidated on the responsibilities of a Branch Officer and finally, there was a brainstorming session in which groups were formed and possible solutions put forth to improve the functioning of IEEE Delhi Section. </p>

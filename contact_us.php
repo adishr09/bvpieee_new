@@ -117,7 +117,7 @@
 	<div id="container">
 		<div id="left">
 			<center><p><h1>BVPIEEE INDIA</h1><br>
-				<h2>Address: </h2><br>
+				<h2>Address: </h2>
 				Bharati Vidyapeeth College of Engineering <br>
 				A-4 Paschim Vihar, Rohtak Road <br>
 				New Delhi-110063<br><br>
@@ -128,6 +128,7 @@
 				E-Mail:<a>aurora.yamini@gmail.com</a><br><br>
 				<h2>On The WWW:</h2>
 				Official E-Mail Address: <a>bvpieee@gmail.com</a> <br>
+				Queries/Information: <a>info@bvpieee.org</a><br>
 				Facebook Page: <a href="https://www.facebook.com/bvpieee">https://www.facebook.com/bvpieee</a>
 			</p></center>
 		</div>

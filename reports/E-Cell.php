@@ -116,12 +116,15 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
+		<img src="img/E-Cell.jpg" class="featureImg" width="30%">
+		<img src="img/E-Cell1.jpg" class="featureImg" width="30%">
+		<img src="img/E-Cell2.jpg" class="featureImg" width="30%">
+		
+		<p>9 October, 2013 </p>
+<p>E-Cell orientation </p>
 
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+<p>E-Cell(Entrepreneurship Cell), a BVPIEEE initiative which aims at providing a professional environment to students,  organized its orientation meet on Wednesday, 9th of October. Topics such as "Opportunities for Start-Up" , "Why Entrepreneurship" and many more were discussed with the main focus on "Do it yourself" culture. </p>
+<p>Rajat Kumar Gupta ( Head E-Cell ) who already has 2 Start-ups and many patents  to his name took this session on Entrepreneurship and Start-ups.</p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

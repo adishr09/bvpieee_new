@@ -116,12 +116,20 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
+		<h4>IEEE Region 10 Congess</h4>
+		<h5>Student|GOLD|WIE</h5>
+		<p>  The IEEE Region 10 Student/GOLD/WIE Congress is a biennial event, which provides an opportunity for students and young professionals from Asia-Pacific to network with like-minded volunteers and share ideas. Recent editions of the Congress have been hosted by IEEE sections of Singapore (2009) and Auckland (2011). </p>
 
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+<p>Hyderabad Section of the India Council hosted the seventh edition of this Congress from 11-14 July 2013 at Taj Krishna, with primary objectives being networking, technology outreach and community engagement activities. The event witnessed a participation of over two hundred and fifty delegates from about twenty different countries. </p>
+
+<p>This international platform has been remarkably utilized by Lambda-Eta Chapter HKN, to showcase the exemplary achievements and awards of our student branch. A team of four students from the IEEE student branch of Bharati Vidyapeeth’s College of Engineering, New Delhi, was sponsored by IEEE Eta Kappa Nu to attend this Congress for assisting the Educational Activities Board in making the honor society a stronger community in Asia-Pacific region.  A booth was put up for two days in the exhibition area of Congress to brief delegates about the benefits of having an IEEE-HKN student chapter and the complete procedure to establish it. Since the selected students have managed to attract the attention of many people from various sections in Region 10, it is expected that this combined effort of HKN and Lambda Eta Chapter shall help IEEE-HKN grow further, transforming BVPIEEE into a distinguished parent branch.</p>
+
+<p>The Executive Committee looks forward to send more exceptionally active volunteers as delegates to the following editions of this phenomenal flagship event of IEEE Asia-Pacific region.</p>
+
+<p>Udit Khanna <br>
+Student Representative, <br>
+BVPIEEE
+ </p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>

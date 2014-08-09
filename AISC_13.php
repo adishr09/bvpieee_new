@@ -116,15 +116,11 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<p> It gives me great pleasure to inform you that the IEEE-HKN workshop held on 4th October 2013 at Amrita University, Coimbatore on the occasion of IEEE ALL INDIA STUDENT CONGRESS 2013 was a definite success.</p>
-
-<p>The IEEE-HKN-Lambda Eta Chapter team had put up a stall to promote and spread IEEE HKN in India. The queries were taken by the representatives and database of the interested student branches was collected which has been attached with the mail. The stall witnessed a huge response and student members including chairpersons of various student branches such as Gujarat, Hyderabad, Bangalore, Kerala, Madras, Delhi and Kolkata sections. </p>
-
-<p>The stall was followed by a workshop cum presentation on IEEE-HKN by two Lambda Eta chapter representatives. The workshop saw a footfall of around 80-100 students. Attendees found the workshop very informative and interesting. They were keen to know more about IEEE HKN and showed interest in forming a chapter in their respective branches.<br>
-Following is the recorded webcast of the workshop:<br>
-IEEE-HKN WORKSHOP AT AISC 2013<br>
-
-<a href="http://m.youtube.com/watch?feature=youtu.be&t=26m5s&v=jfHHnyAd_kE&desktop_uri=%2Fwatch%3Fv%3DjfHHnyAd_kE%26feature%3Dyoutu.be%26t%3D26m5s">http://m.youtube.com/watch?feature=youtu.be&t=26m5s&v=jfHHnyAd_kE&desktop_uri=%2Fwatch%3Fv%3DjfHHnyAd_kE%26feature%3Dyoutu.be%26t%3D26m5s</a>
+		<h1>All India Student Congress - 2013</h1>
+		<p>IEEE-HKN held workshop on 4th October 2013 at Amrita University, Coimbatore on the occasion of IEEE ALL INDIA STUDENT CONGRESS 2013.</p>
+		<p>The IEEE-HKN-Lambda Eta Chapter team had put up a stall to promote and spread IEEE HKN in India. The queries were taken by the representatives and database of the interested student branches was collected which has been attached with the mail. The stall witnessed a huge response and student members including chairpersons of various student branches such as Gujarat, Hyderabad, Bangalore, Kerala, Madras, Delhi and Kolkata sections. </p>
+		<p>The stall was followed by a workshop cum presentation on IEEE-HKN by two Lambda Eta chapter representatives. The workshop saw a footfall of around 80-100 students. Attendees found the workshop very informative and interesting. They were keen to know more about IEEE HKN and showed interest in forming a chapter in their respective branches.<br>
+		<center><a href="http://m.youtube.com/watch?feature=youtu.be&t=26m5s&v=jfHHnyAd_kE&desktop_uri=%2Fwatch%3Fv%3DjfHHnyAd_kE%26feature%3Dyoutu.be%26t%3D26m5s">Watch On YOUTUBE!!</a></center>
 </p>
 		</div>
 		<div id="right">

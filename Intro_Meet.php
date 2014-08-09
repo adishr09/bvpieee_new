@@ -116,7 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h4>BVPIEEE & IEEE-HKN Introductory Meet</h4>
+		<h1>BVPIEEE & IEEE-HKN Introductory Meet</h1>
 		<p>   The Introductory meet was convened and hosted by BVPIEEE on 4th September 2013. The meet aimed: </p>
 
 <p> 1. to introduce IEEE and IEEE-HKN  society from a broader perspective to freshers. <br> 
@@ -125,9 +125,9 @@
 The event witnessed a participation of over one hundred students. The meet was initiated by student representatives with a presentation elucidating benefits of joining BVPIEEE  followed by a video showing all the major events conducted in the previous session. WIE-BVPIEEE succeeded the event by acquainting students with Women In Engineering (WIE) and giving a presentation about the activities undertaken by it like self defence classes etc. Subsequent to that various Special Interest  groups such as Drishti (Photography club ) , Robotix United, Codex  and BVCOE quiz  club  gave presentations illustrating their purpose  and motives. This session  provided an effectual platform for students to identify their interests and get consolidated with the respective SIG. </p>
 <p> Lambda Eta Chapter of IEEE-HKN also gave  a presentation explaining the benefits of  being associated with  an honor society to students. Presentation also highlighted Outstanding Chapter award won by Lambda Eta Chapter, Arizona Student Leadership Conference 2013, R10 Conference held in Hyderabad, Cognizance (E-newsletter of  lambda eta chapter) and various campus activities like Student Mentorship Programme and Plantation drive. </p>
 <p>Towards the end, prize and certificates were distributed to the winners of  Codex online quiz, BQC Intro meet and Fresh-On-Campus Winners. In the last members of executive committee interacted with the audience and cleared their doubts regarding IEEE and IEEE-HKN. </p>
-<b>Himshikha Suhag, <br>
+<p>Himshikha Suhag, <br>
 Corresponding Secretary <br>
-Lambda Eta Chapter, IEEE-HKN </b>
+Lambda Eta Chapter, IEEE-HKN </p>
  </p>
 		</div>
 		<div id="right">

@@ -116,13 +116,13 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<h4>IEEE Region 10 Congess</h4>
-		<h5>Student|GOLD|WIE</h5>
+		<h1>IEEE Region 10 Congress</h1>
+		
 		<p>  The IEEE Region 10 Student/GOLD/WIE Congress is a biennial event, which provides an opportunity for students and young professionals from Asia-Pacific to network with like-minded volunteers and share ideas. Recent editions of the Congress have been hosted by IEEE sections of Singapore (2009) and Auckland (2011). </p>
 
 <p>Hyderabad Section of the India Council hosted the seventh edition of this Congress from 11-14 July 2013 at Taj Krishna, with primary objectives being networking, technology outreach and community engagement activities. The event witnessed a participation of over two hundred and fifty delegates from about twenty different countries. </p>
 
-<p>This international platform has been remarkably utilized by Lambda-Eta Chapter HKN, to showcase the exemplary achievements and awards of our student branch. A team of four students from the IEEE student branch of Bharati Vidyapeeth’s College of Engineering, New Delhi, was sponsored by IEEE Eta Kappa Nu to attend this Congress for assisting the Educational Activities Board in making the honor society a stronger community in Asia-Pacific region.  A booth was put up for two days in the exhibition area of Congress to brief delegates about the benefits of having an IEEE-HKN student chapter and the complete procedure to establish it. Since the selected students have managed to attract the attention of many people from various sections in Region 10, it is expected that this combined effort of HKN and Lambda Eta Chapter shall help IEEE-HKN grow further, transforming BVPIEEE into a distinguished parent branch.</p>
+<p>This international platform has been remarkably utilized by Lambda-Eta Chapter HKN, to showcase the exemplary achievements and awards of our student branch. A team of four students from the IEEE student branch of Bharati Vidyapeeth's College of Engineering, New Delhi, was sponsored by IEEE Eta Kappa Nu to attend this Congress for assisting the Educational Activities Board in making the honor society a stronger community in Asia-Pacific region.  A booth was put up for two days in the exhibition area of Congress to brief delegates about the benefits of having an IEEE-HKN student chapter and the complete procedure to establish it. Since the selected students have managed to attract the attention of many people from various sections in Region 10, it is expected that this combined effort of HKN and Lambda Eta Chapter shall help IEEE-HKN grow further, transforming BVPIEEE into a distinguished parent branch.</p>
 
 <p>The Executive Committee looks forward to send more exceptionally active volunteers as delegates to the following editions of this phenomenal flagship event of IEEE Asia-Pacific region.</p>
 

@@ -115,13 +115,9 @@
 
 <div id="wrapper" >
 	<div id="container">
-		<div id="left">
-		<h1>IEEE Day - 1st October,2013 </h1>
-
-<p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+		<div id="left">		
+			<p>Fresh on Campus, an informal welcome of Freshers, organised on 23rd August, 2013 by BVPIEEE Execomm, was a huge success in terms of participation and response. It was particularly aimed at introducing IEEE and it's Student Branch, furthermore bridging the gap between seniors and freshers. A list of tasks were handed over to the groups of students, each group having not more than 5 participants.It was ensured though, that no two participants were from same the branch. Tasks included writing slogans for BVPIEEE, finding particular coins, clicking particular pictures and many more fun filled activities. This was followed by a Photowalk in which the best picture clicked was awarded. While the participants showed incredible enthusiasm for the first ever, only event of it's kind; so did the volunteers. Student representatives, plus the auxiliary committee effectively managed the event, handling the turnout of more than a 100, which in itself is no easy task. It highly encouraged freshers to learn more about IEEE and it's events at Student Branch level, effect of which was observed in the events that followed. Formal introduction to IEEE alone saw a headcount of more than 150.
+			</p>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>
