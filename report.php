@@ -121,7 +121,6 @@
 				<a href="21stQuarterly.php"><li>21<sup>st</sup> Quarterly Meet</li></a>
 				<a href="AISC_13.php"><li>All India Student Congress - 2013</li></a>
 				<a href="DSC.php"><li>Delhi Student Congress</li></a>
-				<a href="E-Cell.php"><li>Entrepreneurship Cell Orientation</li></a>
 				<a href="Fresh_Campus.php"><li>Fresh On Campus</li></a>
 				<a href="IEEE_Day.php"><li>IEEE Day</li></a>
 				<a href="Intro_Meet.php"><li>Introductory Meet</li></a>
@@ -141,11 +140,7 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
-		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
-		<p style="float:right; display:inline;">Keep In Touch
-		</p>
-	</div>
+	<?php include ("Footer/footer.php"); ?>
 </div>
 <script>
 $("#slideshow > div:gt(0)").hide();

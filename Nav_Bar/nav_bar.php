@@ -41,7 +41,7 @@
 				<li>
 					<a href="#">Executive Community</a>
 					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Branch Counsellor</a></li>
+						<li><a href="branch_couns.php" class="cbp-tm-icon-archive">Branch Counsellor</a></li>
 						<li><a href="team.php" class="cbp-tm-icon-cog">The BVPIEEE Team</a></li>
 					</ul>
 				</li>	

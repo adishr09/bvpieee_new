@@ -116,7 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-			<center><p><h1>BVPIEEE INDIA</h1><br>
+			<center><p><h1>BVPIEEE INDIA</h1>
 				<h2>Address: </h2>
 				Bharati Vidyapeeth College of Engineering <br>
 				A-4 Paschim Vihar, Rohtak Road <br>
@@ -142,11 +142,7 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
-		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
-		<p style="float:right; display:inline;">Keep In Touch
-		</p>
-	</div>
+	<?php include ("Footer/footer.php"); ?>
 </div>
 <script>
 $("#slideshow > div:gt(0)").hide();

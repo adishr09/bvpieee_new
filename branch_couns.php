@@ -116,7 +116,11 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-		<p>On the auspicious occasion of “IEEE HKN Founder’s Day”, BVPIEEE organized an educational seminar held by the firm “Princeton Review”. It was an interactive session covering various facets of higher education. The discussion encompassed various exams like GRE, GMAT, TOEFL and IELTS, dealt with their eligibility criterion, emphasized upon which courses to undertake, explained admission procedure, described education loans and gave tips and tricks to ace the tests. The participants got two envelopes. One enclosed the details about Credila, which is an HDFC Company that handles the education loans and the other incorporated the information about admission programs, testimonials and recent admits from Manya Education Pvt. Ltd.  There is incontrovertible evidence that the event brought the house down. It was a huge success with a gathering of hundred people. Thus, the IEEE HKN availed itself to the opportunity and sank its teeth to raise awareness of the value of chapter through this event.</p>
+			<h1>Branch Counsellor</h1>
+			<h2>Rahul Bahl</h2>
+			<p style="text-align:center;">rbahl@ieee.org<br>
+			+91-9891312335</p>
+			<center><img class="team" src="img/team/rahul_bahl.jpg"> </center>
 		</div>
 		<div id="right">
 			<p>This is 1st right</p>
@@ -128,11 +132,7 @@
 			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
-		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
-		<p style="float:right; display:inline;">Keep In Touch
-		</p>
-	</div>
+	<?php include ("Footer/footer.php"); ?>
 </div>
 <script>
 $("#slideshow > div:gt(0)").hide();
