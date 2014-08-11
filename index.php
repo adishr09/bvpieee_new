@@ -127,7 +127,11 @@
 			<p>Recent Events Block</p>
 		</div>
 		<div id="right">
-			<p>Upcoming Events</p>
+			<h3>Upcoming Events</h3></br>
+			<ul>
+			<li>Princeton Review Seminar</li>
+			<li>Equity Research </li>
+			</ul>
 		</div>
 		<div id="right">
 			<p>Latest Branch News</p>
