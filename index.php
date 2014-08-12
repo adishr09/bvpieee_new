@@ -124,7 +124,13 @@
 			<p>The committee conducts events on a regular basis all throughout the academic session. We would highly appreciate your participation and feedback as it shall help us to improve our work and branch procedures.Please feel free to contact us lest you have any queries or wish to seek information regarding the branch. We shall be more than happy to assist and guide you in the right direction. We look forward to your positive response in the nearfuture. Please visit our website regularly to find out about upcoming events and other exciting news! Photographs from our events can be found on their respective pages. We look forward to hearing from you and seeing you at our events.</p>
 		</div>
 		<div id="right">
-			<p>Recent Events Block</p>
+				<h3>Recent Events</h3>
+			<ul>
+			<li>Fervour- Annual Technical and Managerial fest</li>
+			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
+			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
+			<li>GAMMA Orientation</li>
+			</ul>
 		</div>
 		<div id="right">
 			<h3>Upcoming Events</h3></br>
