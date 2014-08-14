@@ -6,10 +6,13 @@
 		<title>BVPIEEE | Passion To Perfection</title>
 		<link rel="stylesheet" href="css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		
+		<script src="js/jquery.fittext.js"></script>
+		<script>
+			jQuery("#responsive_headline").fitText();
+		</script>
 	</head>
 <?php include ("Header/header.php"); ?>
-<script>
+  <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
 				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
@@ -41,11 +44,7 @@
 				}
 			}
 		</script>
-		
 <?php include ("Nav_Bar/nav_bar.php"); ?>
-
-<?php include ("Slider/index2.php"); ?>
-
 <script type="text/javascript">	
 			$(function() {
 			
@@ -117,33 +116,34 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-			<h1>Welcome to the BVPIEEE Student Branch</h1>
-			<img src="img/2.jpg" style="float:right; display:inline-block; margin:0 5% 0 2%;" height="200px" width="300px">
-			<p>Welcome to the website of the IEEE Student Branch of Bharati Vidyapeeth College of Engineering. IEEE is a pioneer body in technological advancement and scientific research. The Student Branch at BVCOE has, since its inception aimed at promoting IEEE among students as a common platform to share their technical perspective through interactive sessions.Our endeavour is to harness the boundless youth potential and create a rich pool of technical expertise. This is done by conducting technical seminars, field trips and numerous other events to share opinions and views and propagate awareness of the IEEE.</p>
-			<p>This website gives you a sneak peek into the activities, upcoming events and projects of the BVCOE Student Branch.We encourage active involvement of fellow students in our events and proceedings. By becoming a member of the IEEE family, a wide spectrum of opportunities and resources are instantly available to you. You can hugely benefit from the plethora of knowledge and technical know- how that IEEE presents before you. We assure you that your association with BVPIEEE shall be quite a fulfilling and enriching experience.</p>
-			<p>The committee conducts events on a regular basis all throughout the academic session. We would highly appreciate your participation and feedback as it shall help us to improve our work and branch procedures.Please feel free to contact us lest you have any queries or wish to seek information regarding the branch. We shall be more than happy to assist and guide you in the right direction. We look forward to your positive response in the nearfuture. Please visit our website regularly to find out about upcoming events and other exciting news! Photographs from our events can be found on their respective pages. We look forward to hearing from you and seeing you at our events.</p>
+			<h1>Fervour- Annual Technical and Managerial fest 
+			</h1>
+		<div style="width:40%;float:left"><img src="img/f.jpg" height="400" style="text-align:center"/>
+		</div>
+		<div style="width:59%;float:left">Amid much fanfare, BVPIEEE, the IEEE Student Branch of Bharati Vidyapeeth’s College of Engineering, conducted the 7th Edition of its annual technical and managerial festival, FERVOUR, on 16th April. The festival, taking on the unique theme of ‘Live Your Reality In The 
+'Virtual World’ this year, was attended by students from colleges all over Delhi besides the students of BVCOE.  <br/><br/>
+The event opened with a grand ceremony that was presided by distinguished faculty- Principal Dr. Dharmender Saini, Vice Principal Dr. Sunil K. Singh, Dr. Vanita Jain, H.O.D., IT Department and Branch Counselor of BVP-ISTE, and Prof. Rahul Bahl, IT Department and Branch Counselor of BVPIEEE. After the fest was declared open, 18 events were conducted at Fervour ’14, encompassing a plethora of domains- technical, managerial and literary to name a few. The flagship event, titled ‘National Student Symposium’, was a huge success with students from all over Delhi presenting their technical papers. All the events presented ultimate challenges to the students, be it the coding event ‘Run For Your Code’ or the war of bots , ‘Sumobotics’ or the gaming challenge, ‘Full Throttle’! The tradition of quizzing in BVPIEEE continued in Fervour, with two quizzing events being held besides the brainstorming events like ‘I’m Feeling Lucky’ and the extempore-speaking ‘JAM.COMM’. We even had something for the football enthusiasts- Futsal! </div>
+
+<p>
+<br/><br/>The event opened with a grand ceremony that was presided by distinguished faculty- Principal Dr. Dharmender Saini, Vice Principal Dr. Sunil K. Singh, Dr. Vanita Jain, H.O.D., IT Department and Branch Counselor of BVP-ISTE, and Prof. Rahul Bahl, IT Department and Branch Counselor of BVPIEEE. After the fest was declared open, 18 events were conducted at Fervour ’14, encompassing a plethora of domains- technical, managerial and literary to name a few. The flagship event, titled ‘National Student Symposium’, was a huge success with students from all over Delhi presenting their technical papers. All the events presented ultimate challenges to the students, be it the coding event ‘Run For Your Code’ or the war of bots , ‘Sumobotics’ or the gaming challenge, ‘Full Throttle’! The tradition of quizzing in BVPIEEE continued in Fervour, with two quizzing events being held besides the brainstorming events like ‘I’m Feeling Lucky’ and the extempore-speaking ‘JAM.COMM’. We even had something for the football enthusiasts- Futsal!  <br/><br/>
+Coding, Robotics, Extempore, Brainstorming, Gaming, Mock Stock, Quizzes, Football- Fervour ’14 combined them all! Prizes worth 7 Lakhs were won. The eventful day ended with a closing ceremony fitting of the grand festival where the long going tradition of cake cutting was observed. The whole event was a huge success where innovation met fun and the combination of those two proved to be a truly enriching learning experience for all those involved in the festival. 
+</p>
 		</div>
 		<div id="right">
-			<h3>Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
+			<p>This is 1st right</p>
 		</div>
 		<div id="right">
-			<h3>Upcoming Events</h3></br>
-			<ul>
-			<li>Princeton Review Seminar</li>
-			<li>Equity Research </li>
-			</ul>
+			<p>This is 2nd right</p>
 		</div>
 		<div id="right">
-			<p>Latest Branch News</p>
+			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<?php include ("Footer/footer.php"); ?>
+	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
+		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
+		<p style="float:right; display:inline;">Keep In Touch
+		</p>
+	</div>
 </div>
 <script>
 $("#slideshow > div:gt(0)").hide();

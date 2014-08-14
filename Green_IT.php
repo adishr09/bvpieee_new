@@ -6,10 +6,13 @@
 		<title>BVPIEEE | Passion To Perfection</title>
 		<link rel="stylesheet" href="css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		
+		<script src="js/jquery.fittext.js"></script>
+		<script>
+			jQuery("#responsive_headline").fitText();
+		</script>
 	</head>
 <?php include ("Header/header.php"); ?>
-<script>
+  <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
 				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
@@ -41,11 +44,7 @@
 				}
 			}
 		</script>
-		
 <?php include ("Nav_Bar/nav_bar.php"); ?>
-
-<?php include ("Slider/index2.php"); ?>
-
 <script type="text/javascript">	
 			$(function() {
 			
@@ -117,33 +116,29 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-			<h1>Welcome to the BVPIEEE Student Branch</h1>
-			<img src="img/2.jpg" style="float:right; display:inline-block; margin:0 5% 0 2%;" height="200px" width="300px">
-			<p>Welcome to the website of the IEEE Student Branch of Bharati Vidyapeeth College of Engineering. IEEE is a pioneer body in technological advancement and scientific research. The Student Branch at BVCOE has, since its inception aimed at promoting IEEE among students as a common platform to share their technical perspective through interactive sessions.Our endeavour is to harness the boundless youth potential and create a rich pool of technical expertise. This is done by conducting technical seminars, field trips and numerous other events to share opinions and views and propagate awareness of the IEEE.</p>
-			<p>This website gives you a sneak peek into the activities, upcoming events and projects of the BVCOE Student Branch.We encourage active involvement of fellow students in our events and proceedings. By becoming a member of the IEEE family, a wide spectrum of opportunities and resources are instantly available to you. You can hugely benefit from the plethora of knowledge and technical know- how that IEEE presents before you. We assure you that your association with BVPIEEE shall be quite a fulfilling and enriching experience.</p>
-			<p>The committee conducts events on a regular basis all throughout the academic session. We would highly appreciate your participation and feedback as it shall help us to improve our work and branch procedures.Please feel free to contact us lest you have any queries or wish to seek information regarding the branch. We shall be more than happy to assist and guide you in the right direction. We look forward to your positive response in the nearfuture. Please visit our website regularly to find out about upcoming events and other exciting news! Photographs from our events can be found on their respective pages. We look forward to hearing from you and seeing you at our events.</p>
+			<h1>Lecture on Green IT by Mr.Daman Dev Sood</h1>
+		<p>
+		In an unprecedented initiative by BVPIEEE, Mr.Daman Dev Sood was invited to our college for a guest lecture on Green IT and the Industry.   
+<br/><br/>As Business Continuity Manager of the Year in BCI’s C&R Awards India 2009, and with over 25 years’ experience in IT Industry, Daman Sood is a Vice President with Continuity and Resilience and Heads Green IT Practice. He is a Fellow of the BCS (The Chartered Institute for IT, earlier known as the British Computer Society), an Associate Member of the BCI (Business Continuity Institute), Senior Member of IEEE (Institute of Electrical and Electronics Engineers) and Secretary of IEEE Delhi Section.  
+<br/><br/>He has delivered over 200 talks/ workshops in national and international events – the highest being at the BCI Symposium 2007, Amsterdam in October 2007, the BCI Symposium 2008, Brighton in October 2008, and the BCI’s BCM World Conference 2009, London in November 2009. 
+<br/><br/>In recent years, many green agencies and humanitarian regulatory authorities have expressed the need to manage electronic waste with caution. Although E-Waste poses hazardous threats to man and also holds the enormous potential to create jobs in refurbishing industries, lack of awareness and efforts has hindered the actions adopted for recycling and reusing it. Building on IEEE’s theme of creating a better tomorrow, BVPIEEE’s aim was to create awareness about E waste via a campaign titled E-Bin. 
+</p>
 		</div>
 		<div id="right">
-			<h3>Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
+			<p>This is 1st right</p>
 		</div>
 		<div id="right">
-			<h3>Upcoming Events</h3></br>
-			<ul>
-			<li>Princeton Review Seminar</li>
-			<li>Equity Research </li>
-			</ul>
+			<p>This is 2nd right</p>
 		</div>
 		<div id="right">
-			<p>Latest Branch News</p>
+			<p>This is 3rd right</p>
 		</div>
 	</div>
-	<?php include ("Footer/footer.php"); ?>
+	<div id="left_f" style="border-radius:50px 50px 0 0;background:rgba(236, 236, 236, 1);">
+		<p style="float:left;">BVPIEEE | Passion To Perfection</p>
+		<p style="float:right; display:inline;">Keep In Touch
+		</p>
+	</div>
 </div>
 <script>
 $("#slideshow > div:gt(0)").hide();
