@@ -33,8 +33,7 @@
 		<span class="head_f">Get in Touch</span></br>
             <a href="#">Join Us</a><br />
             <a href="mailto:bvpieee@gmail.com">bvpieee@gmail.com<br />
-            <a href="#">The Team</a><br />
-            <a href="#">Feedback</a>
+            <a href="team.php">The Team</a><br />
         </div>
         <div class="col" id="col2">
            <span class="head_f">Useful Links</span></br>
