@@ -125,13 +125,27 @@
 <p>3. Coding Week: From 14th october to 19th october, a coding week was organized wherein a question was posted every morning based on real time programming. Students had to submit their solutions to an email address and were replied with their marks evaluated by the scrutinizing committee incorporating Prabhjot singh, shubham agarwal and sumit dhawan. Students were evaluated on the basis of logic, format, output and compilation errors. over 20 people participated in this maiden coding week from codex. Chayan Gulati won the week, with maximum 50 points out of 60.</p>
 		</div>
 		<div id="right">
-			<p>This is 1st right</p>
+			<h3>Recent Events</h3>
+			<ul>
+			<li>Fervour- Annual Technical and Managerial fest</li>
+			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
+			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
+			<li>GAMMA Orientation</li>
+			</ul>
 		</div>
 		<div id="right">
-			<p>This is 2nd right</p>
+			<h3>Upcoming Events</h3></br>
+			<ul>
+			<li>Fresh On Campus</li>
+			<li>Equity Research Initiative</li>
+			</ul>
 		</div>
 		<div id="right">
-			<p>This is 3rd right</p>
+			<h3>Latest Branch News</h3></br>
+			<ul>
+			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
+			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
+			</ul>
 		</div>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
