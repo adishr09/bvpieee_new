@@ -31,7 +31,7 @@
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="calibri" size="5.5"><b>Note from the Chairperson</b></font></p>
 			    <br>
-			    <img alt="" src="header/img/" border="50" height="150" width="150"><br><br>
+			    <img alt="" src="header/img/yamini_jain.png" border="50" height="150" width="150"><br><br>
 			    <p><font color="black" face="calibri" size="4"><b>Yamini Jain</b></font></p>
 			</aside>
 			<nav style="margin-top:-9%;">
