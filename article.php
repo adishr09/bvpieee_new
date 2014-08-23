@@ -115,11 +115,7 @@
 
 <div id="wrapper" >
 	<div id="container">
-		<div id="left">
-			<p><h1>Reports</h1></p>
-			<ol>
-			<li>
-		</div>
+			<?php include ("Slider/index2.php"); ?>
 		<div id="right">
 			<h3>Recent Events</h3>
 			<ul>

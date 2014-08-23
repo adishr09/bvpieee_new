@@ -112,60 +112,10 @@
 			
 			});
 		</script>
-<style>
-#left p{
-margin-bottom: 0px;
-}
-ul {
-margin-top: 0px;
-}
-</style>
+
 <div id="wrapper" >
 	<div id="container">
-		<div id="left">
-			<h1>Women In Engineering</h1>
-		<div style="margin-left:auto;margin-right:auto;height:300px;width:569px;"><img src="img/wie.jpg" style="height:300px;"/></div>
-		<p>
-		The IEEE Student Branch of Bharati Vidyapeeth's College of Engineering got the approval for starting the women in engineering student branch affinity group on 21st June 2007
-		<br/><br/><b>AIM</b>
-		<ul>
-			<li> To mentor young women in junior and high schools and make them interested in the fields of science and technology	(STAR Program).</li>
-			<li>To increase networking among the young women who are studying engineering.</li>
-			<li> To establish contacts with prominent women in academia and industry who are interested in guiding girls in engineering.</li>
-			<li>To organize field trips and industrial visits.</li>
-		</ul>
-		<br/><br/><b>Target Group</b>
-		<ul>
-			<li> For STAR Program the target group will be girls in government schools who are studying in standards 9th and 10th.</li>
-			<li>For Networking Mixers we will be inviting	members of all the WIE Affinity Groups of the Delhi section.</li>
-			<li>Lectures by prominent women will be for all the students of the college.</li>
-			<li>The field trips and industrial visits will be exclusively for WIE Members.</li>
-		</ul>
-		</p>
-		</div>
-		<div id="right">
-			<h3>Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Upcoming Events</h3></br>
-			<ul>
-			<li>Fresh On Campus</li>
-			<li>Equity Research Initiative</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Latest Branch News</h3></br>
-			<ul>
-			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
-			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
-			</ul>
-		</div>
+			<?php include ("gallery/index2.php"); ?>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
 </div>

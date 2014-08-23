@@ -20,15 +20,7 @@
 					<a href="hkn.php">IEEE-HKN</a>
 				</li>			
 				<li>
-					<a href="http://ewh.ieee.org/sb/delhi/bvce/www/home/wie/">WIE</a>
-				</li>
-				<li>
-					<a href="#">Events</a>
-					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Event 0</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">Event 1</a></li>
-						<li><a href="#" class="cbp-tm-icon-location">Event 2</a></li>
-					</ul>
+					<a href="wie.php">WIE</a>
 				</li>
 				<li>
 					<a href="#">Publications</a>
