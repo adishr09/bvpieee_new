@@ -116,6 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
+		<h1>Code-x</h1>
 		<p>  Code-x organized following events in 2013-2014. </p>
 
 <p>1. Code-x orientation: The first meet of our SIG ( Special Interest Group) took place on 4th October. 40 people turned up. Speaker was Prateek Arora. Students were taught Golden rules of programming and introduced code-x' objective, i.e to bridge the gap between the learned ones and beginners, simultaneously making them compete among each other to test themselves. The session was concluded with some interview questions, for which the students should be prepared early in their education. </p>

@@ -1,11 +1,11 @@
 <?php echo '
 		<link rel="shortcut icon" href="../favicon.ico"> 
-		<link rel="stylesheet" type="text/css" href="slider/css/demo.css" />
-        <link rel="stylesheet" type="text/css" href="slider/css/style.css" />
-        <link rel="stylesheet" type="text/css" href="slider/css/custom.css" />
-		<script type="text/javascript" src="slider/js/modernizr.custom.79639.js"></script>
+		<link rel="stylesheet" type="text/css" href="gallery/css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="gallery/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="gallery/css/custom_1.css" />
+		<script type="text/javascript" src="gallery/js/modernizr.custom.79639.js"></script>
 		<noscript>
-			<link rel="stylesheet" type="text/css" href="slider/css/styleNoJS.css" />
+			<link rel="stylesheet" type="text/css" href="gallery/css/styleNoJS.css" />
 		</noscript>
     
     <div class="container_2 demo-2">
@@ -67,5 +67,5 @@
 	    </div>
 		
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<script type="text/javascript" src="slider/js/jquery.ba-cond.min.js"></script>
-		<script type="text/javascript" src="slider/js/jquery.slitslider.js"></script>'?>
+		<script type="text/javascript" src="gallery/js/jquery.ba-cond.min.js"></script>
+		<script type="text/javascript" src="gallery/js/jquery.slitslider.js"></script>'?>

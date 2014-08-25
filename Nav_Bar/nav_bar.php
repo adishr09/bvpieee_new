@@ -40,15 +40,15 @@
 				<li>
 					<a href="#">SIGs</a>
 					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Drishti</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">Code-X</a></li>
+						<li><a href="Drishti.php" class="cbp-tm-icon-archive">Drishti</a></li>
+						<li><a href="Code_x.php" class="cbp-tm-icon-cog">Code-X</a></li>
 						<li><a href="Robotix_United.php" class="cbp-tm-icon-location">Robotix-United</a></li>
-						<li><a href="#" class="cbp-tm-icon-archive">GAMMA</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">E-Cell</a></li>
+						<li><a href="Gamma.php" class="cbp-tm-icon-archive">GAMMA</a></li>
+						<li><a href="E-Cell.php" class="cbp-tm-icon-cog">E-Cell</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="#">Gallery</a>
+					<a href="gallery_home.php">Gallery</a>
 				</li>
 				<li>
 					<a href="contact_us.php">Contact Us</a>
