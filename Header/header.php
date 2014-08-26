@@ -20,7 +20,7 @@
 			<header class="codrops-header">
 				<h1 style="height:inherit;">
 					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; margin: 35 0 0 35; ">
-					<img src="header/img/BVPIEEE.png" style="float:center; " width="35%">
+					<img src="header/img/BVPIEEE.png" style="float:center; padding-bottom:25px; " width="35%">
 					<img src="header/img/IEEE.png"  width="14%" style="float:right; margin: 55 35 0 0 ">	
 				</h1>
 			</header>
@@ -31,7 +31,7 @@
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="calibri" size="5.5"><b>Note from the Chairperson</b></font></p>
 			    <br>
-			    <img alt="" src="header/img/" border="50" height="150" width="150"><br><br>
+			    <img alt="" src="img/team/new/yamini_jain.png" border="50" height="150" width="150"><br><br>
 			    <p><font color="black" face="calibri" size="4"><b>Yamini Jain</b></font></p>
 			</aside>
 			<nav style="margin-top:-9%;">
