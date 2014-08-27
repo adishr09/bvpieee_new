@@ -124,7 +124,7 @@
 			<p>The committee conducts events on a regular basis all throughout the academic session. We would highly appreciate your participation and feedback as it shall help us to improve our work and branch procedures.Please feel free to contact us lest you have any queries or wish to seek information regarding the branch. We shall be more than happy to assist and guide you in the right direction. We look forward to your positive response in the nearfuture. Please visit our website regularly to find out about upcoming events and other exciting news! Photographs from our events can be found on their respective pages. We look forward to hearing from you and seeing you at our events.</p>
 		</div>
 		<div id="right">
-			<h3>Recent Events</h3>
+			<h3 style="color:#99cc33;">Recent Events</h3>
 			<ul>
 			<li>Fervour- Annual Technical and Managerial fest</li>
 			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
@@ -133,14 +133,14 @@
 			</ul>
 		</div>
 		<div id="right">
-			<h3>Upcoming Events</h3></br>
+			<h3 style="color:#99cc33;">Upcoming Events</h3></br>
 			<ul>
 			<li>Fresh On Campus</li>
 			<li>Equity Research Initiative</li>
 			</ul>
 		</div>
 		<div id="right">
-			<h3>Latest Branch News</h3></br>
+			<h3 style="color:#99cc33;">Latest Branch News</h3></br>
 			<ul>
 			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
 			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
