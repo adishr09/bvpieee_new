@@ -44,9 +44,9 @@
         </div>
         <div class="col" id="col3">
 		<span class="head_f">Reach Us</span></br>
-            <span>BVP IEEE Student Branch</span><br />
-            <span>A-4 Pashchim Vihar</span><br />
-            <span>New Delhi - 110063</span><br />
+            <span style="color:rgba(66,158,229,1);">BVP IEEE Student Branch</span><br />
+            <span style="color:rgba(66,158,229,1);">A-4 Pashchim Vihar</span><br />
+            <span style="color:rgba(66,158,229,1);">New Delhi - 110063</span><br />
    
         </div>
 		<div class="bottom">
