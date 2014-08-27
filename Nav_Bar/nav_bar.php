@@ -20,15 +20,7 @@
 					<a href="hkn.php">IEEE-HKN</a>
 				</li>			
 				<li>
-					<a href="http://ewh.ieee.org/sb/delhi/bvce/www/home/wie/">WIE</a>
-				</li>
-				<li>
-					<a href="#">Events</a>
-					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Event 0</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">Event 1</a></li>
-						<li><a href="#" class="cbp-tm-icon-location">Event 2</a></li>
-					</ul>
+					<a href="wie.php">WIE</a>
 				</li>
 				<li>
 					<a href="#">Publications</a>
@@ -48,15 +40,15 @@
 				<li>
 					<a href="#">SIGs</a>
 					<ul class="cbp-tm-submenu">
-						<li><a href="#" class="cbp-tm-icon-archive">Drishti</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">Code-X</a></li>
+						<li><a href="Drishti.php" class="cbp-tm-icon-archive">Drishti</a></li>
+						<li><a href="Code_x.php" class="cbp-tm-icon-cog">Code-X</a></li>
 						<li><a href="Robotix_United.php" class="cbp-tm-icon-location">Robotix-United</a></li>
-						<li><a href="#" class="cbp-tm-icon-archive">GAMMA</a></li>
-						<li><a href="#" class="cbp-tm-icon-cog">E-Cell</a></li>
+						<li><a href="Gamma.php" class="cbp-tm-icon-archive">GAMMA</a></li>
+						<li><a href="E-Cell.php" class="cbp-tm-icon-cog">E-Cell</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="#">Gallery</a>
+					<a href="gallery_home.php">Gallery</a>
 				</li>
 				<li>
 					<a href="contact_us.php">Contact Us</a>

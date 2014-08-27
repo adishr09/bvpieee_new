@@ -116,6 +116,7 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
+		<h1>Drishti</h1>
 		<p>  Drishti, a SIG of BVPIEEE conducted a workshop on "Adobe Photoshop" on 13th November, 2013. </p>
 
 <p>The event was hosted by Mr. Mohnish Rajput and Mr. Aryaman Nath. More then 25 students from first, second and third year participated in the workshop. All students were given a brief introduction about the basic precautions and necessary steps while taking a photograph and also how to edit the photos and enhance them using Photoshop. </p>
