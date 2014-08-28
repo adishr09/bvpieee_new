@@ -154,18 +154,23 @@
 /* Content elements */
 
 .demo-2 .bg-img-1 {
+	margin-top:170px;
 	background-image: url(../images/pythonwork/1.jpg);
 }
 .demo-2 .bg-img-2 {
+	margin-top:170px;
 	background-image: url(../images/pythonwork/2.jpg);
 }
 .demo-2 .bg-img-3 {
+	margin-top:170px;
 	background-image: url(../images/pythonwork/3.jpg);
 }
 .demo-2 .bg-img-4 {
+	margin-top:170px;
 	background-image: url(../images/pythonwork/4.jpg);
 }
 .demo-2 .bg-img-5 {
+	margin-top:170px;
 	background-image: url(../images/pythonwork/5.jpg);
 }
 

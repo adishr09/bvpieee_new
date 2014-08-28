@@ -158,12 +158,21 @@
 }
 .demo-2 .bg-img-2 {
 	background-image: url(../images/greenit/2.jpg);
+	margin-top:50px;
+	margin-left:150;
+	width:75%;
 }
 .demo-2 .bg-img-3 {
 	background-image: url(../images/greenit/3.jpg);
+		margin-top:50px;
+	margin-left:150;
+	width:75%;
 }
 .demo-2 .bg-img-4 {
 	background-image: url(../images/greenit/4.jpg);
+		margin-top:110px;
+	margin-left:150;
+	width:75%;
 }
 .demo-2 .bg-img-5 {
 	background-image: url(../images/greenit/5.jpg);
