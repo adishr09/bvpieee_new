@@ -4,14 +4,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1""> 
 		<title>BVPIEEE | Passion To Perfection</title>
-		<link rel="stylesheet" href="css/body.css" type="text/css">
+		<link rel="stylesheet" href="http://www.bvpieee.com/css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script src="js/jquery.fittext.js"></script>
+		<script src="http://www.bvpieee.com/js/jquery.fittext.js"></script>
 		<script>
 			jQuery("#responsive_headline").fitText();
 		</script>
 	</head>
-<?php include ("Header/header.php"); ?>
+<?php include ("header/header.php"); ?>
   <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
@@ -120,29 +120,7 @@
 			<p>Fresh on Campus, an informal welcome of Freshers, organised on 23rd August, 2013 by BVPIEEE Execomm, was a huge success in terms of participation and response. It was particularly aimed at introducing IEEE and it's Student Branch, furthermore bridging the gap between seniors and freshers. A list of tasks were handed over to the groups of students, each group having not more than 5 participants.It was ensured though, that no two participants were from same the branch. Tasks included writing slogans for BVPIEEE, finding particular coins, clicking particular pictures and many more fun filled activities. </p><p>This was followed by a Photowalk in which the best picture clicked was awarded. While the participants showed incredible enthusiasm for the first ever, only event of it's kind; so did the volunteers. Student representatives, plus the auxiliary committee effectively managed the event, handling the turnout of more than a 100, which in itself is no easy task. It highly encouraged freshers to learn more about IEEE and it's events at Student Branch level, effect of which was observed in the events that followed. Formal introduction to IEEE alone saw a headcount of more than 150.
 			</p>
 		</div>
-		<div id="right">
-			<h3>Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Upcoming Events</h3></br>
-			<ul>
-			<li>Fresh On Campus</li>
-			<li>Equity Research Initiative</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Latest Branch News</h3></br>
-			<ul>
-			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
-			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
-			</ul>
-		</div>
+		<?php include("right.php");?>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
 </div>

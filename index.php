@@ -4,11 +4,11 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1""> 
 		<title>BVPIEEE | Passion To Perfection</title>
-		<link rel="stylesheet" href="css/body.css" type="text/css">
+		<link rel="stylesheet" href="http://www.bvpieee.com/css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		
 	</head>
-<?php include ("Header/header.php"); ?>
+<?php include ("header/header.php"); ?>
 <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
@@ -44,7 +44,7 @@
 		
 <?php include ("Nav_Bar/nav_bar.php"); ?>
 
-<?php include ("Slider/index2.php"); ?>
+<?php include ("slider/index2.php"); ?>
 
 <script type="text/javascript">	
 			$(function() {
@@ -123,29 +123,7 @@
 			<p>This website gives you a sneak peek into the activities, upcoming events and projects of the BVCOE Student Branch.We encourage active involvement of fellow students in our events and proceedings. By becoming a member of the IEEE family, a wide spectrum of opportunities and resources are instantly available to you. You can hugely benefit from the plethora of knowledge and technical know- how that IEEE presents before you. We assure you that your association with BVPIEEE shall be quite a fulfilling and enriching experience.</p>
 			<p>The committee conducts events on a regular basis all throughout the academic session. We would highly appreciate your participation and feedback as it shall help us to improve our work and branch procedures.Please feel free to contact us lest you have any queries or wish to seek information regarding the branch. We shall be more than happy to assist and guide you in the right direction. We look forward to your positive response in the nearfuture. Please visit our website regularly to find out about upcoming events and other exciting news! Photographs from our events can be found on their respective pages. We look forward to hearing from you and seeing you at our events.</p>
 		</div>
-		<div id="right">
-			<h3 style="color:#99cc33;">Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3 style="color:#99cc33;">Upcoming Events</h3></br>
-			<ul>
-			<li>Fresh On Campus</li>
-			<li>Equity Research Initiative</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3 style="color:#99cc33;">Latest Branch News</h3></br>
-			<ul>
-			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
-			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
-			</ul>
-		</div>
+		<?php include("right.php");?>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
 </div>

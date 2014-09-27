@@ -1,7 +1,7 @@
 <?php echo'
 
-    <style>
-        .col{
+	<style>
+	  .col{
 			font-weight:800;
 			width:33%;
 			float:left;
@@ -27,7 +27,7 @@
 			color:white;
 			display:inline-block;
 		}
-    </style>
+	</style>
 	<div id="left_f" style="border-radius:50px 50px 0 0;background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#2c2c2c), color-stop(100%,#4E4E4E));border-top:#99cc33 solid 5px;color:#99cc33">
 		<div class="col" id="col1">
 		<span class="head_f">Get in Touch</span></br>

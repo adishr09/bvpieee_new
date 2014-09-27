@@ -4,14 +4,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1""> 
 		<title>BVPIEEE | Passion To Perfection</title>
-		<link rel="stylesheet" href="css/body.css" type="text/css">
+		<link rel="stylesheet" href="http://www.bvpieee.com/css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script src="js/jquery.fittext.js"></script>
+		<script src="http://www.bvpieee.com/js/jquery.fittext.js"></script>
 		<script>
 			jQuery("#responsive_headline").fitText();
 		</script>
 	</head>
-<?php include ("Header/header.php"); ?>
+<?php include ("header/header.php"); ?>
   <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
@@ -119,15 +119,7 @@
 		<h1> Seminar - Princeton Review</h1>
 		<p>On the auspicious occasion of "IEEE HKN Founder's Day", BVPIEEE organized an educational seminar held by the firm "Princeton Review". It was an interactive session covering various facets of higher education. The discussion encompassed various exams like GRE, GMAT, TOEFL and IELTS, dealt with their eligibility criterion, emphasized upon which courses to undertake, explained admission procedure, described education loans and gave tips and tricks to ace the tests. The participants got two envelopes. One enclosed the details about Credila, which is an HDFC Company that handles the education loans and the other incorporated the information about admission programs, testimonials and recent admits from Manya Education Pvt. Ltd.  There is incontrovertible evidence that the event brought the house down. It was a huge success with a gathering of hundred people. Thus, the IEEE HKN availed itself to the opportunity and sank its teeth to raise awareness of the value of chapter through this event.</p>
 		</div>
-		<div id="right">
-			<p>This is 1st right</p>
-		</div>
-		<div id="right">
-			<p>This is 2nd right</p>
-		</div>
-		<div id="right">
-			<p>This is 3rd right</p>
-		</div>
+		<?php include("right.php");?>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
 </div>

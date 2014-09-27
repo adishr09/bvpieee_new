@@ -1,11 +1,11 @@
 /* Iconfont made with icomoon.com */
 @font-face {
 	font-family: 'cbp-tmicons';
-	src:url('../fonts/tmicons/cbp-tmicons.eot');
-	src:url('../fonts/tmicons/cbp-tmicons.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/tmicons/cbp-tmicons.woff') format('woff'),
-		url('../fonts/tmicons/cbp-tmicons.ttf') format('truetype'),
-		url('../fonts/tmicons/cbp-tmicons.svg#cbp-tmicons') format('svg');
+	src:url('http://www.bvpieee.com/Nav_Bar/fonts/tmicons/cbp-tmicons.eot');
+	src:url('http://www.bvpieee.com/Nav_Bar/fonts/tmicons/cbp-tmicons.eot?#iefix') format('embedded-opentype'),
+		url('http://www.bvpieee.com/Nav_Bar/fonts/tmicons/cbp-tmicons.woff') format('woff'),
+		url('http://www.bvpieee.com/Nav_Bar/fonts/tmicons/cbp-tmicons.ttf') format('truetype'),
+		url('http://www.bvpieee.com/Nav_Bar/fonts/tmicons/cbp-tmicons.svg#cbp-tmicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

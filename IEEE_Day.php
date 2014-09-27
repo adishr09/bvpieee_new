@@ -4,14 +4,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1""> 
 		<title>BVPIEEE | Passion To Perfection</title>
-		<link rel="stylesheet" href="css/body.css" type="text/css">
+		<link rel="stylesheet" href="http://www.bvpieee.com/css/body.css" type="text/css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script src="js/jquery.fittext.js"></script>
+		<script src="http://www.bvpieee.com/js/jquery.fittext.js"></script>
 		<script>
 			jQuery("#responsive_headline").fitText();
 		</script>
 	</head>
-<?php include ("Header/header.php"); ?>
+<?php include ("header/header.php"); ?>
   <script>
 			//  The function to change the class
 			var changeClass = function (r,className1,className2) {
@@ -119,33 +119,11 @@
 		<h1>IEEE Day - 1st October,2013 </h1>
 
 <p>This IEEE Day, our student branch did the needful for environment and humanity by hosting an opinion based contest. Student members were encouraged to kindle the fuel of engineering and propound ideas that shall leverage the advancing technology for energy conservation! The BVP-IEEE Entrepreneurship Cell paved the way from prototyping to commercialization, thus giving birth to a new start-up! A drop box placed in the campus gathered what innovative young minds came up with and the participants got to brag about their contribution by leaving a hand print on the BVPIEEE Green Wall! </p>
-		<center><p><img src="img/DSC_0036.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0077.jpg" class="featureImg" width="50%">
-		<img src="img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
+		<center><p><img src="http://www.bvpieee.com/img/DSC_0036.jpg" class="featureImg" width="50%">
+		<img src="http://www.bvpieee.com/img/DSC_0077.jpg" class="featureImg" width="50%">
+		<img src="http://www.bvpieee.com/img/DSC_0081.jpg" class="featureImg" width="50%"></p></center>
 		</div>
-		<div id="right">
-			<h3>Recent Events</h3>
-			<ul>
-			<li>Fervour- Annual Technical and Managerial fest</li>
-			<li>GRE/GMAT WORKSHOPS BY PRINCETON REVIEW AND JAMBOOREE </li>
-			<li>Lecture on Green IT by Mr.Daman Dev Sood </li>
-			<li>GAMMA Orientation</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Upcoming Events</h3></br>
-			<ul>
-			<li>Fresh On Campus</li>
-			<li>Equity Research Initiative</li>
-			</ul>
-		</div>
-		<div id="right">
-			<h3>Latest Branch News</h3></br>
-			<ul>
-			<li><a href="http://goo.gl/DR1s1T" style="color:#8a8c7e;">New Member Registrations Open</a></li>
-			<li><a href="https://docs.google.com/forms/d/1MMbpG5zG0eWvvex9_Zl3qOoJ4ZBU97pGnBfZYK4YFhI/viewform?c=0&w=1&usp=mail_form_link" style="color:#8a8c7e;">Join BVPIEEE design team</a></li>
-			</ul>
-		</div>
+		<?php include("right.php");?>
 	</div>
 	<?php include ("Footer/footer.php"); ?>
 </div>

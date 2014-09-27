@@ -138,11 +138,11 @@
 
 @font-face {
     font-family: 'AnimalsNormal';
-    src: url('fonts/animals-webfont.eot');
-    src: url('fonts/animals-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/animals-webfont.woff') format('woff'),
-         url('fonts/animals-webfont.ttf') format('truetype'),
-         url('fonts/animals-webfont.svg#AnimalsNormal') format('svg');
+    src: url('http://www.bvpieee.com/gallery/css/fonts/animals-webfont.eot');
+    src: url('http://www.bvpieee.com/gallery/css/fonts/animals-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.bvpieee.com/gallery/css/fonts/animals-webfont.woff') format('woff'),
+         url('http://www.bvpieee.com/gallery/css/fonts/animals-webfont.ttf') format('truetype'),
+         url('http://www.bvpieee.com/gallery/css/fonts/animals-webfont.svg#AnimalsNormal') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -570,19 +570,19 @@
 }
 
 .demo-2 .bg-img-1 {
-	background-image: url(../images/1.jpg);
+	background-image: url(http://www.bvpieee.com/gallery/images/1.jpg);
 }
 .demo-2 .bg-img-2 {
-	background-image: url(../images/2.jpg);
+	background-image: url(http://www.bvpieee.com/gallery/images/2.jpg);
 }
 .demo-2 .bg-img-3 {
-	background-image: url(../images/3.jpg);
+	background-image: url(http://www.bvpieee.com/gallery/images/3.jpg);
 }
 .demo-2 .bg-img-4 {
-	background-image: url(../images/4.jpg);
+	background-image: url(http://www.bvpieee.com/gallery/images/4.jpg);
 }
 .demo-2 .bg-img-5 {
-	background-image: url(../images/5.jpg);
+	background-image: url(http://www.bvpieee.com/gallery/images/5.jpg);
 }
 
 /* Animations for content elements */

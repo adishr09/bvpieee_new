@@ -1,9 +1,9 @@
 <?php echo'
 		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" type="text/css" href="header/css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="header/css/demo.css" />
-		<link rel="stylesheet" type="text/css" href="header/css/style5.css" />
-  		<script src="header/js/modernizr.custom.js"></script>
+		<link rel="stylesheet" href="http://www.bvpieee.com/header/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.bvpieee.com/header/css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.bvpieee.com/header/css/style5.css" />
+  		<script src="http://www.bvpieee.com/header/js/modernizr.custom.js"></script>
 		<div class="container"  style="background:rgba(236, 236, 236, 1);height:inherit;">
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
@@ -19,9 +19,9 @@
 			<br>
 			<header class="codrops-header">
 				<h1 style="height:inherit;">
-					<img src="header/img/bvp_logo.png"  width="14%" style="float:left; margin: 35 0 0 35; ">
-					<img src="header/img/BVPIEEE.png" style="float:center; padding-bottom:25px; " width="35%">
-					<img src="header/img/IEEE.png"  width="14%" style="float:right; margin: 55 35 0 0 ">	
+					<img src="http://www.bvpieee.com/header/img/bvp_logo.png"  width="14%" style="float:left; margin: 35 0 0 35; ">
+					<img src="http://www.bvpieee.com/header/img/BVPIEEE.png" style="float:center; padding-bottom:25px; " width="35%">
+					<img src="http://www.bvpieee.com/header/img/IEEE.png"  width="14%" style="float:right; margin: 55 35 0 0 ">	
 				</h1>
 			</header>
 		</div><!-- /container -->
@@ -31,7 +31,7 @@
 			<aside align="center" style="margin-top:5%;">
 			    <p><font color="black" face="calibri" size="5.5"><b>Note from the Chairperson</b></font></p>
 			    <br>
-			    <img alt="" src="img/team/new/yamini_jain.png" border="50" height="150" width="150"><br><br>
+			    <img alt="" src="http://www.bvpieee.com/header/img/yamini_jain.png" border="50" height="150" width="150"><br><br>
 			    <p><font color="black" face="calibri" size="4"><b>Yamini Jain</b></font></p>
 			</aside>
 			<nav style="margin-top:-9%;">
@@ -45,6 +45,6 @@
 			</nav>
 				
 		</div>
-		<script src="header/js/classie.js"></script>
-		<script src="header/js/demo1.js"></script>';?>
+		<script src="http://www.bvpieee.com/header/js/classie.js"></script>
+		<script src="http://www.bvpieee.com/header/js/demo1.js"></script>';?>
 		
