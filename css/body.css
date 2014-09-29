@@ -16,6 +16,7 @@ border-top:#99cc33 solid 4px;
 border-bottom:#99cc33 solid 2px;
 background-color:rgba(238, 238, 238, 0.63);
 margin:2% 1% 2% 2%;
+min-height:750px;
 }
 
 #left p{
@@ -36,6 +37,7 @@ color:rgba(153,204,51,0.7);
 }
 
 #right{
+    min-height: 215px;
 border-top:3px solid rgba(66,158,229,1);
 border-right:1px solid rgba(66,158,229,1);
 border-bottom: 2px solid rgba(66,158,229,1);
