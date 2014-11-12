@@ -117,7 +117,7 @@
 	<div id="container">
 		<div id="left">
 			<a href="gallery.php?view=gallery/greenit"><h1>Green IT</h1></a>
-			<a href="gallery.php?view=gallery/nivasevent"><h1>Nivas Event</h1></a>
+			<a href="gallery.php?view=gallery/nivasevent"><h1>Talk by Mr. Nivas Ravichandran</h1></a>
 			<a href="gallery.php?view=gallery/pythonwork"><h1>Python Workshop</h1></a>
 		</div>
 		<?php include("right.php");?>

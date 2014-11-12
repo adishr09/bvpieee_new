@@ -31,7 +31,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="#">Executive Community</a>
+					<a href="#">Executive Committee</a>
 					<ul class="cbp-tm-submenu">
 						<li><a href="http://www.bvpieee.com/branch_couns.php" class="cbp-tm-icon-archive">Branch Counsellor</a></li>
 						<li><a href="http://www.bvpieee.com/team.php" class="cbp-tm-icon-cog">The BVPIEEE Team</a></li>
@@ -45,6 +45,7 @@
 						<li><a href="http://www.bvpieee.com/Robotix_United.php" class="cbp-tm-icon-location">Robotix-United</a></li>
 						<li><a href="http://www.bvpieee.com/GAMMA.php" class="cbp-tm-icon-archive">GAMMA</a></li>
 						<li><a href="http://www.bvpieee.com/E-Cell.php" class="cbp-tm-icon-cog">E-Cell</a></li>
+						<li><a href="http://www.bvpieee.com/Quiz_Club.php" class="cbp-tm-icon-archive">BVCOE Quiz Club</a></li>
 					</ul>
 				</li>
 				<li>

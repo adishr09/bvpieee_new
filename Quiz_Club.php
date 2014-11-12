@@ -116,14 +116,8 @@
 <div id="wrapper" >
 	<div id="container">
 		<div id="left">
-			<p><h1>Eta Kappa Nu</h1></p>
-			<p>IEEE-Eta Kappa Nu (IEEE-HKN) is the student honor society of IEEE and is dedicated to encouraging and recognizing excellence in the IEEE-designated fields of interest.</p>
-			<h2><b>What Is IEEE-HKN?</b></h2>
-			<p>The members consist of students, alumni, and other professionals who have demonstrated exceptional academic and professional accomplishments. Student members are selected on the basis of scholastic standing, character, and leadership. Professional members are inducted by nomination of a current member and by virtue of their contributions.
-			The founding principle of "identifying and recognizing the future leaders of our profession" has resulted in the high concentration of IEEE-HKN alumni in top-level positions at every major technical corporation in the U.S. and around the world. Our alumni have a higher level of advanced degrees, frequently are published and hold patents, are entrepreneurs, have founded corporations, and hold leadership roles in academia and at the highest levels of the profession. Truly the vision of the founding members has been realized in the success of those who have been chosen and have accepted the challenge and responsibility of the designation Eta Kappa Nu.</p>
-			<h2><b>What Does IEEE-HKN Do?</b></h2>
-			<p>For more than 100 years, Eta Kappa Nu has embraced excellence. In the years ahead, IEEE-HKN will continue to reinvent itself to meet the needs of its members, the institutions they serve, and overall society.Through a variety of service programs and leadership training, student members develop lifelong skills that earmark them for prominent positions in industry and academia. Members are better prepared for the post-college world and are especially valuable and attractive to employers. They are recognized as extremely capable, both technically and professionally. The intention of the founding members was to recognize and prepare the future leaders of the profession.</p>
-			<a href="http://hkn.bvpieee.org"><h2><u>Visit the IEEE-HKN Chapter of BVPIEE</u></h2></a>
+		<h1>BVCOE Quiz Club</h1>
+		<p>The BVCOE Quiz Club aims to keep alive the longstanding tradition of quizzing at Bharati Vidyapeeth's College of Engineering. A BVPIEEE initiative and one of its six SIGs (Special Interest Groups), it holds meetings throughout the academic session where quiz enthusiasts meet and compete with each other. Seeing that one of the premier events of BVPIEEE is a quiz, namely Dr. Vikram Sarabhai Quiz, BCQ has always been an integral part of not just BVPIEEE but also of the whole college as it has established a culture of quizzing and knowledge sharing. </p>
 		</div>
 		<?php include("right.php");?>
 	</div>
